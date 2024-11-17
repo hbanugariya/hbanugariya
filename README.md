@@ -14,12 +14,6 @@
 
 ---
 
-## 🎓 Education  
-🎓 **Bachelor of Technology in Information Technology**  
-**Marwadi University** 
-
----
-
 ## 🛠️ Skills & Tools  
 ### Core Skills  
 ![Power BI](https://img.shields.io/badge/Power_BI-Certified-yellow?style=flat&logo=power-bi&logoColor=white)  
@@ -32,6 +26,12 @@
 - **ETL & Reporting**: Power Query, Microsoft Fabric  
 - **Data Visualization**: Tableau, Power BI, Excel  
 - **Google Suite**: Sheets, Docs, Slides  
+
+---
+
+## 🎓 Education  
+🎓 **Bachelor of Technology in Information Technology**  
+**Marwadi University** 
 
 ---
 
