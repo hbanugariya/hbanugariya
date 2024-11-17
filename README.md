@@ -37,7 +37,7 @@ I am deeply committed to continuous learning and have pursued certifications to 
 [![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshbanugariya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Streaks:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshbanugariya&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## 🏆 Trophies:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=harshbanugariya&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
