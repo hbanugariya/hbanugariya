@@ -3,12 +3,17 @@
 ## 🔎 About Me  
 🎯 Based in **Hartford, CT**, I'm a passionate **Business Intelligence Analyst**, **Power BI Developer**, and **Data Analyst** skilled in turning raw data into actionable insights. My expertise spans **Power BI**, **SQL**, and **Tableau**, helping organizations drive strategic decisions and achieve regulatory success.  
 
-💡 With experience in the **pharmaceutical industry**, I focus on crafting data-driven solutions for operational and regulatory challenges. I'm committed to continuous learning and hold multiple certifications to keep my skills cutting-edge.  
+💡 With experience in the **Data Analysis**, I focus on crafting data-driven solutions for operational and regulatory challenges. I'm committed to continuous learning and hold multiple certifications to keep my skills cutting-edge.  
 
 - 💼 **Looking for collaboration** on data analysis and BI projects.  
 - 🚀 **Currently working** as a **Data Analyst – Quality Control**.  
 - 🌱 Learning advanced **DAX**, **ETL processes**, and **data visualization techniques**.  
 - 🤓 Fun Fact: I enjoy solving puzzles and exploring innovative ways to visualize data!  
+
+## 🎓 Education  
+🎓 **Bachelor of Technology in Information Technology**  
+**Marwadi University**, Rajkot, Gujarat, India  
+📅 **July 2017 – April 2021**
 
 ## 🛠️ Skills & Tools  
 ### Core Skills  
@@ -40,12 +45,3 @@
 
 ## 🤔 Fun Fact  
 I enjoy solving puzzles 🧩 and finding innovative ways to visualize data 📈!  
-
----
-
-### 📚 How to Use Interactive Badges  
-1. **Find Badges**: Visit [Shields.io](https://shields.io/) to create custom badges.  
-2. **Add Emojis**: Use emojis to make sections stand out.  
-3. **Enhance with Markdown**: Use headings, lists, and badges creatively for a polished look.  
-
-Let me know if you'd like help tweaking or adding more details! 🚀
