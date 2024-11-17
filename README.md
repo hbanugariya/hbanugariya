@@ -16,7 +16,7 @@
 
 ## 🎓 Education  
 🎓 **Bachelor of Technology in Information Technology**  
-**Marwadi University** – Rajkot, Gujarat, India (July 2017 – April 2021)  
+**Marwadi University** 
 
 ---
 
