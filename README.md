@@ -14,6 +14,15 @@
 
 ---
 
+## 🛠️ Skills & Tools
+| **Category**     | **Tools**                        |
+|-------------------|----------------------------------|
+| BI & Reporting    | Power BI, Tableau               |
+| Data Analysis     | SQL, Python, Excel              |
+| ETL & Modeling    | Power Query, Microsoft Fabric   |
+| Collaboration     | Google Suite, Microsoft Teams   |
+
+
 ## 🛠️ **Skills & Tools**  
 ### **Core Skills**  
 ![Power BI](https://img.shields.io/badge/Power_BI-Certified-yellow?style=flat&logo=power-bi&logoColor=white)  
