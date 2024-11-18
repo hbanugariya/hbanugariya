@@ -10,31 +10,17 @@
 - 💼 **Looking for collaboration** on data analysis and BI projects.  
 - 🚀 **Currently working** as a **Data Analyst – Quality Control**.  
 - 🌱 Learning advanced **DAX**, **ETL processes**, and **data visualization techniques**.  
-- 🤓 Fun Fact: I enjoy solving puzzles 🧩 and crafting innovative dashboards 📊!  
+- 🤓 Fun Fact: I enjoy solving puzzles 🧩 and crafting innovative dashboards 📊!
 
 ---
 
 ## 🛠️ Skills & Tools
-| **Category**     | **Tools**                        |
-|-------------------|----------------------------------|
-| BI & Reporting    | Power BI, Tableau               |
-| Data Analysis     | SQL, Python, Excel              |
-| ETL & Modeling    | Power Query, Microsoft Fabric   |
-| Collaboration     | Google Suite, Microsoft Teams   |
-
-
-## 🛠️ **Skills & Tools**  
-### **Core Skills**  
-![Power BI](https://img.shields.io/badge/Power_BI-Certified-yellow?style=flat&logo=power-bi&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=flat&logo=postgresql&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-Expert-orange?style=flat&logo=tableau&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat&logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen?style=flat&logo=microsoft-excel&logoColor=white)  
-
-### **Other Tools**  
-- **ETL & Reporting**: **Power Query**, **Microsoft Fabric**  
-- **Data Visualization**: **Tableau**, **Power BI**, **Excel**  
-- **Google Suite**: **Sheets**, **Docs**, **Slides**  
+| **Category**     | **Tools**                        | **Expertise Level**       |
+|-------------------|----------------------------------|---------------------------|
+| BI & Reporting    | Power BI 📊, Tableau 📈         | Expert 🏅                 |
+| Data Analysis     | SQL 🗄️, Python 🐍, Excel 📊    | Expert 🏅 (SQL)           |
+| ETL & Modeling    | Power Query 🔄, Microsoft Fabric 🏗️ | Advanced ⭐              |
+| Collaboration     | Google Suite 🌐, Microsoft Teams 💬  | Proficient 💼            |
 
 ---
 
