@@ -30,13 +30,9 @@
 
 ---
 
-## 🎓 Education  
-🎓 **Bachelor of Technology in Information Technology**  
-**Marwadi University** 
+## 🎓 Education & Certifications
+🎓 **Bachelor of Technology in Information Technology, Marwadi University** 
 
----
-
-## 🏅 Certifications  
 ![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)  
 ![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL_for_Data_Science-blue?style=flat&logo=google-scholar&logoColor=white)  
 ![University of California](https://img.shields.io/badge/University_of_California-Data_Visualization_with_Tableau-orange?style=flat&logo=tableau&logoColor=white)  
@@ -54,7 +50,3 @@
 ## 📂 Portfolio  
 📊 Explore all my projects here: [GitHub Portfolio](https://github.com/hbanugariya/harsh_portfolio)  
 
----
-
-### 🤔 Fun Fact  
-I enjoy solving puzzles 🧩 and finding innovative ways to visualize data 📈!  
