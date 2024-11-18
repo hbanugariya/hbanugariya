@@ -15,12 +15,12 @@
 ---
 
 ## 🛠️ Skills & Tools
-| **Category**     | **Tools**                        | **Expertise Level**       |
-|-------------------|----------------------------------|---------------------------|
-| BI & Reporting    | Power BI 📊, Tableau 📈         | Expert 🏅                 |
-| Data Analysis     | SQL 🗄️, Python 🐍, Excel 📊    | Expert 🏅 (SQL)           |
-| ETL & Modeling    | Power Query 🔄, Microsoft Fabric 🏗️ | Advanced ⭐              |
-| Collaboration     | Google Suite 🌐, Microsoft Teams 💬  | Proficient 💼            |
+| **Category**     | **Tools**                        
+|-------------------|----------------------------------|
+| BI & Reporting    | Power BI 📊, Tableau 📈        
+| Data Analysis     | SQL 🗄️, Python 🐍, Excel 📊    
+| ETL & Modeling    | Power Query 🔄, Microsoft Fabric 🏗️ 
+| Collaboration     | Google Suite 🌐, Microsoft Teams 💬  | 
 
 ---
 
