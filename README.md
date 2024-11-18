@@ -5,7 +5,7 @@
 
 💡 I specialize in developing advanced reports and interactive dashboards 📊, leveraging tools like Power BI and Tableau to transform complex datasets into actionable insights 🔍 that drive strategic decision-making 📈.
 
-🎓 As a Microsoft Certified Power BI Data Analyst, I continually refine my expertise in data modeling, visualization, and automation 🤖, ensuring high-impact outcomes for business and regulatory needs ✅. 
+## 💼 As a Microsoft Certified Power BI Data Analyst, experienced in data cleaning, transformation, and modeling using **Power Query** and **DAX** to develop impactful visualizations and dashboards. I design and implement Power BI solutions that enable **data-driven decision-making** and support **strategic business objectives**. 🚀
 
 - 💼 **Looking for collaboration** on data analysis and BI projects.  
 - 🚀 **Currently working** as a **Data Analyst – Quality Control**.  
