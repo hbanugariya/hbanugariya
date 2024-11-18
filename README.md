@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat&logo=python&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen?style=flat&logo=microsoft-excel&logoColor=white)  
 
+
 ### Other Tools  
 - **ETL & Reporting**: Power Query, Microsoft Fabric  
 - **Data Visualization**: Tableau, Power BI, Excel  
@@ -40,6 +41,10 @@
 ![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL_for_Data_Science-blue?style=flat&logo=google-scholar&logoColor=white)  
 ![University of California](https://img.shields.io/badge/University_of_California-Data_Visualization_with_Tableau-orange?style=flat&logo=tableau&logoColor=white)  
 ![Google](https://img.shields.io/badge/Google-Data_Analytics_Certificate-yellow?style=flat&logo=google&logoColor=white)  
+![Google](https://img.shields.io/badge/Google-Data_Analytics_Certificate_(2024)-yellow?style=flat&logo=google&logoColor=white)  
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Power_BI_Essential_Training_(2024)-blue?style=flat&logo=linkedin&logoColor=white)  
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Excel_Data_Analysis_(2024)-green?style=flat&logo=linkedin&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-Database_Design_and_SQL_Programming_(2018)-orange?style=flat&logo=oracle&logoColor=white)  
 
 ---
 
