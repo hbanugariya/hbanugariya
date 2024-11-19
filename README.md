@@ -40,5 +40,3 @@ I'm a passionate Business Intelligence Analyst and Data Analyst with a strong fo
 ## 🌐 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshbanugariya)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:hbanugariya@gmail.com)  
-
----
