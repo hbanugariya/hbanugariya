@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Harsh Banugariya**  
+# 👋 Hi there, I'm **Harsh Banugariya**  
 
 ## 🔎 **About Me**  
 I'm a passionate Business Intelligence Analyst and Data Analyst with a strong foundation in Power BI, SQL, and Tableau. I specialize in transforming complex datasets into compelling visual stories and actionable insights that empower organizations to make data-driven decisions and achieve strategic objectives.
