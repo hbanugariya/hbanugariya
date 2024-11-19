@@ -42,6 +42,3 @@ I'm a passionate Business Intelligence Analyst and Data Analyst with a strong fo
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:hbanugariya@gmail.com)  
 
 ---
-
-## 📂 **Portfolio**  
-📊 Explore all my projects here: [**GitHub Portfolio**](https://github.com/hbanugariya/harsh_portfolio)
