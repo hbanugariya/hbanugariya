@@ -22,9 +22,3 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 | Data Analysis     | SQL 🗄️, Python 🐍, Excel 📊    
 | ETL & Modeling    | Power Query 🔄, Microsoft Fabric 🏗️ 
 | Collaboration     | Google Suite 🌐, Microsoft Teams 💬  | 
-
----
-
-## 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshbanugariya)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:hbanugariya@gmail.com)  
