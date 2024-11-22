@@ -7,7 +7,7 @@ My expertise includes developing interactive dashboards, advanced reporting, and
 
 As a Microsoft Certified Power BI Data Analyst, I excel in data cleaning, transformation, and modeling, ensuring data accuracy and delivering impactful visualizations tailored to business needs.
 
-I'm constantly expanding my knowledge in advanced DAX, ETL processes, and cloud-based analytics, striving to remain at the forefront of innovation in the field.
+I'm constantly expanding my knowledge in advanced DAX, ETL processes, advanced analytics, and cloud-based analytics, striving to remain at the forefront of innovation in the field.
 
 Open to collaboration on BI and data analytics projects to create value through data-driven strategies.
 
