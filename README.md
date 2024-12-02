@@ -21,7 +21,6 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 | BI & Reporting    | Power BI 📊, Tableau 📈        
 | Data Analysis     | SQL 🗄️, Python 🐍, Excel 📊    
 | ETL & Modeling    | Power Query 🔄, Microsoft Fabric 🏗️ 
-| Collaboration     | Google Suite 🌐, Microsoft Teams 💬  | 
 
 ---
 
@@ -34,3 +33,10 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 ![University of California](https://img.shields.io/badge/University_of_California-Data_Visualization_with_Tableau-orange?style=flat&logo=tableau&logoColor=white)  
 ![Google](https://img.shields.io/badge/Google-Data_Analytics_Certificate-yellow?style=flat&logo=google&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-Database_Design_and_SQL_Programming_(2018)-orange?style=flat&logo=oracle&logoColor=white)  
+
+---
+
+## 🔗 **Connect with Me**
+[![Email](https://img.shields.io/badge/Email-hbanugariya@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hbanugariya@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Banugariya-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbanugariya/)  
+[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-orange?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harsh.banugariya/vizzes)  
