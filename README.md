@@ -37,6 +37,7 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 ---
 
 ## Connect with Me
+
 [![LinkedIn](./path-to-your-uploaded-linkedin-icon.svg)](https://www.linkedin.com/in/harshbanugariya/)
 [![Tableau](https://www.svgrepo.com/show/354428/tableau-icon.svg)](https://public.tableau.com/app/profile/harsh.banugariya/vizzes)
 [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28blue%29_icon.svg)](mailto:hbanugariya@gmail.com)
