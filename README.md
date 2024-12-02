@@ -16,11 +16,13 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 ---
 
 ## 🛠️ Skills & Tools
-| **Category**     | **Tools**                        
-|-------------------|----------------------------------|
-| BI & Reporting    | Power BI 📊, Tableau 📈        
-| Data Analysis     | SQL 🗄️, Python 🐍, Excel 📊    
-| ETL & Modeling    | Power Query 🔄, Microsoft Fabric 🏗️ 
+| **Category**              | **Tools**                                                                 |
+|---------------------------|--------------------------------------------------------------------------|  
+| **BI & Reporting**        | Power BI 📊, Tableau 📈, Google Analytics 📉                     |  
+| **Data Analysis**         | SQL 🗄️, MySQL 🛢️, Python 🐍, SAS 📊, Excel 📑                       |  
+| **ETL & Analytics**       | Microsoft Fabric 🏗️, Azure Synapse ⚡                       |  
+| **Programming Languages** | SQL, Python, MySQL, SAS                                                  |  
+| **Core Competencies**     | Data Cleaning 🧹, Statistical Analysis 📐, Data Modeling 🏗️, Data Warehousing 🏬, Machine Learning 🤖 |  
 
 ---
 
