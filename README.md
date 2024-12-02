@@ -36,7 +36,7 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 
 ---
 
-## 🔗 **Connect with Me**  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hbanugariya@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbanugariya/)  
-[![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harsh.banugariya/vizzes)  
+## Connect with Me
+[![LinkedIn](./path-to-your-uploaded-linkedin-icon.svg)](https://www.linkedin.com/in/harshbanugariya/)
+[![Tableau](https://www.svgrepo.com/show/354428/tableau-icon.svg)](https://public.tableau.com/app/profile/harsh.banugariya/vizzes)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28blue%29_icon.svg)](mailto:hbanugariya@gmail.com)
