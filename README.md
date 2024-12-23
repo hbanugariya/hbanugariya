@@ -23,7 +23,7 @@ My strong foundation in business and data analysis allows me to excel in data pr
 ---
 
 ## 🎓 **Education**  
-**Marwadi Univeristy**
+**Marwadi Univeristy**  
 Bachelor of Technology in Information Technology
 
 ## 🏅 **Certifications**  
