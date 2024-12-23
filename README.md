@@ -29,8 +29,8 @@ Bachelor of Technology in Information Technology
 ## 🏅 **Certifications**  
 ![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)  
 ![Microsoft](https://img.shields.io/badge/Microsoft-Fabric_Analytics_Engineer_Associate-blue?style=flat&logo=microsoft&logoColor=white)  **[Verify Credential](https://learn.microsoft.com/en-us/users/harshbanugariya-9488/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab)**  
-![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL_for_Data_Science-blue?style=flat&logo=google-scholar&logoColor=white)  **[Verify Credential](https://coursera.org/verify/3QVLQJJP0TE2)**  
-![University of California](https://img.shields.io/badge/University_of_California-Data_Visualization_with_Tableau-orange?style=flat&logo=tableau&logoColor=white)  **[Verify Credential](https://coursera.org/verify/EUD6IUPYSW20)**  
+![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL-blue?style=flat&logo=google-scholar&logoColor=white)  **[Verify Credential](https://coursera.org/verify/3QVLQJJP0TE2)**  
+![University of California](https://img.shields.io/badge/University_of_California-Tableau-orange?style=flat&logo=tableau&logoColor=white)  **[Verify Credential](https://coursera.org/verify/EUD6IUPYSW20)**  
 
 ---
 
