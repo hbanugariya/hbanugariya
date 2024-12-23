@@ -5,7 +5,7 @@ Excited to be on the cutting edge of data analysis! As a **Microsoft Certified P
 
 I design interactive dashboards and perform advanced analytics to uncover insights that fuel data-driven strategies. By refining data models, creating dynamic visuals, and automating reporting processes, I empower organizations to make informed and timely decisions.  
 
-With extensive experience working across diverse data systems, I ensure seamless data flow, accessibility, and storage. Leveraging cloud-based platforms like Azure and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
+I manage and manipulate data across various databases like MySQL, MS SQL Server, and Oracle, optimizing storage and accessibility. Leveraging cloud-based platforms like Azure and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
 
 My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize my skills in **DAX**, **ETL processes**, **BI tools**, and **advanced analytics** to uncover patterns and deliver impactful insights.  
 
