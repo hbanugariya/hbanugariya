@@ -7,7 +7,7 @@ I design interactive dashboards and perform advanced analytics to uncover insigh
 
 With extensive experience working across diverse data systems, I ensure seamless data flow, accessibility, and storage. Leveraging cloud-based platforms like Azure and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
 
-My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize tools like **DAX**, **ETL processes**, **BI tools**, and **advanced analytics** to uncover patterns and deliver impactful insights.  
+My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize my skills in **DAX**, **ETL processes**, **BI tools**, and **advanced analytics** to uncover patterns and deliver impactful insights.  
 
 ---
 
@@ -23,14 +23,21 @@ My strong foundation in business and data analysis allows me to excel in data pr
 ---
 
 ## 🎓 **Education**  
-**Marwadi Univeristy**, Bachelor of Technology in Information Technology
+**Marwadi Univeristy**
+Bachelor of Technology in Information Technology
 
 ## 🏅 **Certifications**  
 ![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)  
 ![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL_for_Data_Science-blue?style=flat&logo=google-scholar&logoColor=white)  
 ![University of California](https://img.shields.io/badge/University_of_California-Data_Visualization_with_Tableau-orange?style=flat&logo=tableau&logoColor=white)  
-![Google](https://img.shields.io/badge/Google-Data_Analytics_Certificate-yellow?style=flat&logo=google&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-Database_Design_and_SQL_Programming_(2018)-orange?style=flat&logo=oracle&logoColor=white)  
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)  
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Fabric_Analytics_Engineer_Associate-blue?style=flat&logo=microsoft&logoColor=white)  **[Verify Credential](file:///C:/Users/hbanu/Downloads/Credentials%20-%20harshbanugariya-9488%20_%20Microsoft%20Learn.pdf)**  
+
+![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL_for_Data_Science-blue?style=flat&logo=google-scholar&logoColor=white)  **[Verify Credential](https://coursera.org/verify/3QVLQJJP0TE2)**  
+
+![University of California](https://img.shields.io/badge/University_of_California-Data_Visualization_with_Tableau-orange?style=flat&logo=tableau&logoColor=white)  **[Verify Credential](https://coursera.org/verify/EUD6IUPYSW20)**  
 
 ---
 
