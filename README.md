@@ -7,9 +7,7 @@ I design interactive dashboards and perform advanced analytics to uncover insigh
 
 With extensive experience working across diverse data systems, I ensure seamless data flow, accessibility, and storage. Leveraging cloud-based platforms like Azure and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
 
-My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize tools like **DAX**, **Power Query**, **ETL processes**, and advanced BI tools to uncover patterns and deliver impactful insights.  
-
-I'm always eager to collaborate with professionals and organizations looking to solve meaningful challenges through data. Feel free to reach out at **hbanugariya@gmail.com**—let's innovate together!  
+My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize tools like **DAX**, **ETL processes**, **BI tools**, and **advanced analytics** to uncover patterns and deliver impactful insights.  
 
 ---
 
@@ -20,12 +18,12 @@ I'm always eager to collaborate with professionals and organizations looking to 
 | **Data Analysis**         | SQL 🗄️, MySQL 🛢️, Python 🐍, SAS 📊, Excel 📑                       |  
 | **Analytics & ETL**       | Microsoft Fabric 🏗️, Azure Synapse ⚡, Power Query 🔄                       |  
 | **Programming Languages** | SQL, MySQL, Microsoft SQL Server, Oracle, DAX, Python, SAS                                                  |  
-| **Core Competencies**     | Data Cleaning 🧹, Data Visulization 📊,  Statistical Analysis 📐, Data Modeling 🏗️, Data Warehousing 🏬, Machine Learning 🤖  Critical Thinking 💡 |  
+| **Core Competencies**     | Data Cleaning 🧹, Data Modeling 🏗️, Data Warehousing 🏬 Data Visulization 📊,  Statistical Analysis 📐, Critical Thinking 💡 |  
 
 ---
 
 ## 🎓 **Education**  
-**Bachelor of Technology in Information Technology**, Marwadi University  
+**Marwadi Univeristy**, Bachelor of Technology in Information Technology
 
 ## 🏅 **Certifications**  
 ![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)  
