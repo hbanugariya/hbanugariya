@@ -1,17 +1,17 @@
 # Hi there, I'm **Harsh Banugariya**👋 
 
 ## **About Me**  
-I'm a passionate Business Intelligence Analyst and Data Analyst with a strong foundation in Power BI, SQL, and Tableau. I specialize in transforming complex datasets into compelling visual stories and actionable insights that empower organizations to make data-driven decisions and achieve strategic objectives.
+# About Me
 
-My expertise includes developing interactive dashboards, advanced reporting, and scalable data models, utilizing Power Query, DAX, and other BI tools to streamline processes and enhance operational efficiency.
+Excited to be on the cutting edge of data analysis! As a **Microsoft Certified Power BI Data Analyst** with expertise in **SQL** and **Tableau**, I specialize in transforming complex data into actionable insights that drive strategic decision-making across industries.  
 
-As a Microsoft Certified Power BI Data Analyst, I excel in data cleaning, transformation, and modeling, ensuring data accuracy and delivering impactful visualizations tailored to business needs.
+I design interactive dashboards and perform advanced analytics to uncover insights that fuel data-driven strategies. By refining data models, creating dynamic visuals, and automating reporting processes, I empower organizations to make informed and timely decisions.  
 
-I'm constantly expanding my knowledge in advanced DAX, ETL processes, advanced analytics, and cloud-based analytics, striving to remain at the forefront of innovation in the field.
+With extensive experience working across diverse data systems, I ensure seamless data flow, accessibility, and storage. Leveraging cloud-based platforms like Azure and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
 
-Open to collaboration on BI and data analytics projects to create value through data-driven strategies.
+My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize tools like **DAX**, **Power Query**, **ETL processes**, and advanced BI tools to uncover patterns and deliver impactful insights.  
 
-In my spare time, I enjoy solving complex puzzles and exploring creative approaches to dashboard design.
+I'm always eager to collaborate with professionals and organizations looking to solve meaningful challenges through data. Feel free to reach out at **hbanugariya@gmail.com**—let's innovate together!  
 
 ---
 
@@ -20,9 +20,9 @@ In my spare time, I enjoy solving complex puzzles and exploring creative approac
 |---------------------------|--------------------------------------------------------------------------|  
 | **BI & Reporting**        | Power BI 📊, Tableau 📈, Google Analytics 📉                     |  
 | **Data Analysis**         | SQL 🗄️, MySQL 🛢️, Python 🐍, SAS 📊, Excel 📑                       |  
-| **Analytics & ETL**       | Microsoft Fabric 🏗️, Azure Synapse ⚡                       |  
-| **Programming Languages** | SQL, Python, MySQL, SAS                                                  |  
-| **Core Competencies**     | Data Cleaning 🧹, Statistical Analysis 📐, Data Modeling 🏗️, Data Warehousing 🏬, Machine Learning 🤖 |  
+| **Analytics & ETL**       | Microsoft Fabric 🏗️, Azure Synapse ⚡, Power Query 🔄                       |  
+| **Programming Languages** | SQL, MySQL, Microsoft SQL Server, Oracle, DAX, Python, SAS                                                  |  
+| **Core Competencies**     | Data Cleaning 🧹, Data Visulization 📊,  Statistical Analysis 📐, Data Modeling 🏗️, Data Warehousing 🏬, Machine Learning 🤖  Critical Thinking 💡 |  
 
 ---
 
