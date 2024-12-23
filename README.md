@@ -3,11 +3,11 @@
 ## **About Me**  
 Excited to be on the cutting edge of data analysis! As a **Microsoft Certified Power BI Data Analyst** with expertise in **SQL** and **Tableau**, I specialize in transforming complex data into actionable insights that drive strategic decision-making across industries.  
 
-I design interactive dashboards and perform advanced analytics to uncover insights that fuel data-driven strategies. By refining data models, creating dynamic visuals, and automating reporting processes, I empower organizations to make informed and timely decisions.  
+I design interactive dashboards and perform advanced analytics, uncovering insights that fuel data-driven strategies. By refining data models, creating dynamic visuals, and automating reporting processes, I empower organizations to make informed, timely decisions.  
 
 I manage and manipulate data across various databases like MySQL, MS SQL Server, and Oracle, optimizing storage and accessibility. Leveraging cloud-based platforms like Azure and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
 
-My strong foundation in business and data analysis allows me to excel in data profiling, preparation, and modeling, crafting dashboards and reports tailored to drive business outcomes. Passionate about process automation, tracking KPIs, and predictive analytics, I utilize my skills in **DAX**, **ETL processes**, **BI tools**, and **advanced analytics** to uncover patterns and deliver impactful insights.  
+With a strong foundation in business and data analysis, I excel in data profiling, preparation, and modeling, creating reports and dashboards tailored to drive business outcomes. Passionate about process automation, tracking KPIs and predictive analytics, I use advanced techniques to uncover patterns and enable data-backed decision-making.  
 
 ---
 
