@@ -1,8 +1,6 @@
 # Hi there, I'm **Harsh Banugariya**👋 
 
 ## **About Me**  
-# About Me
-
 Excited to be on the cutting edge of data analysis! As a **Microsoft Certified Power BI Data Analyst** with expertise in **SQL** and **Tableau**, I specialize in transforming complex data into actionable insights that drive strategic decision-making across industries.  
 
 I design interactive dashboards and perform advanced analytics to uncover insights that fuel data-driven strategies. By refining data models, creating dynamic visuals, and automating reporting processes, I empower organizations to make informed and timely decisions.  
