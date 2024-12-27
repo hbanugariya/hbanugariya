@@ -27,7 +27,7 @@ With a strong foundation in business and data analysis, I excel in data profilin
 Bachelor of Technology in Information Technology
 
 ## 🏅 **Certifications**  
-![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)  
+![Microsoft](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-blue?style=flat&logo=microsoft&logoColor=white)    **[Verify Credential](https://learn.microsoft.com/en-us/users/harshbanugariya-9488/credentials/15fa1e347e700c7b)**  
 ![Microsoft](https://img.shields.io/badge/Microsoft-Fabric_Analytics_Engineer_Associate-blue?style=flat&logo=microsoft&logoColor=white)  **[Verify Credential](https://drive.google.com/file/d/1jU3noFEl_3oAV1w-1pxiLdWCkvTnMXpA/view?usp=drive_link)**  
 ![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL-blue?style=flat&logo=google-scholar&logoColor=white)  **[Verify Credential](https://coursera.org/verify/3QVLQJJP0TE2)**  
 ![University of California](https://img.shields.io/badge/University_of_California-Tableau-orange?style=flat&logo=tableau&logoColor=white)  **[Verify Credential](https://coursera.org/verify/EUD6IUPYSW20)**  
