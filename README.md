@@ -14,11 +14,9 @@ With a strong foundation in business and data analysis, I excel in data profilin
 ## 🛠️ Skills & Tools
 | **Category**              | **Tools**                                                                 |
 |---------------------------|--------------------------------------------------------------------------|  
-| **BI & Reporting**        | Power BI 📊, Tableau 📈, Google Analytics 📉                     |  
-| **Data Analysis**         | SQL 🗄️, MySQL 🛢️, Python 🐍, SAS 📊, Excel 📑                       |  
-| **Analytics & ETL**       | Microsoft Fabric 🏗️, Azure Synapse ⚡, AWS (Redshift, S3), Power Query 🔄                       |  
-| **Programming Languages** | SQL, MySQL, Microsoft SQL Server, Oracle, DAX, Python, SAS                                                  |  
-| **Core Competencies**     | Data Cleaning 🧹, Data Modeling 🏗️, Data Warehousing 🏬 Data Visulization 📊,  Statistical Analysis 📐, Critical Thinking 💡 |  
+| **Data Visulization & Reporting**        | Power BI, Tableau, Microsoft Excel, Microsoft Fabric, Azure Data Services, Power Automate, Power Apps, AWS(Redshift, S3), Google Analytics, SAP, Sage X3                    |  
+| **Data Management & Analysis**         | SQL, MySQL, MS SQL Server, DAX, M, Oracle, Python(Pandas, NumPy), ML & Data Modeling, Data Warehousing, Data Validation, Data Integration, ETL, Data Mining, Data Cleaning                                                       |  
+| **Core Competencies**      | Data Analysis, Statistical Analysis, Data Manipulation, Problem-Solving, Communication, Critical Thinking, Process Optimization, Data-Driven Decision Making |  
 
 ---
 
