@@ -30,7 +30,3 @@ Bachelor of Technology in Information Technology
 ![University of Michigan](https://img.shields.io/badge/University_of_Michigan-SQL-blue?style=flat&logo=google-logoColor=white)  **[Verify Credential](https://coursera.org/verify/3QVLQJJP0TE2)**  
 ![University of California](https://img.shields.io/badge/University_of_California-Tableau-orange?style=flat&logo=tableau&logoColor=white)  **[Verify Credential](https://coursera.org/verify/EUD6IUPYSW20)**  
 
----
-
-## 🔗 **Connect with Me**  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hbanugariya@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbanugariya/)  [![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harsh.banugariya/vizzes)  
