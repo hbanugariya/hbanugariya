@@ -9,8 +9,6 @@ I work across diverse databases such as MySQL and SQL Server, and leverage cloud
 
 Expanding beyond business intelligence, I bring a growing focus on Data Science and Data Engineering applying Python-based machine learning and AI techniques to build predictive models, automate workflows, and enhance decision-making. I have experience in ETL development, and feature engineering, bridging the gap between raw data and business value. My focus lies in data wrangling and developing end-to-end analytics solutions that are not only intelligent but also scalable and production ready.
 
-Holding a Bachelor of Technology in Information Technology, I combine technical acumen with clear communication and a business first mindset. I excel in data profiling, preparation, and modeling, consistently delivering advanced analytics and dashboards aligned with real business outcomes. I'm especially passionate about process automation, KPI tracking, and driving innovation through AI-powered insights and robust data infrastructure.  
-
 ---
 
 ## 🛠️ Skills & Tools
