@@ -9,17 +9,6 @@ I work across diverse databases such as MySQL and SQL Server, and leverage cloud
 
 Expanding beyond business intelligence, I bring a growing focus on Data Science and Data Engineering applying Python-based machine learning and AI techniques to build predictive models, automate workflows, and enhance decision-making. I have experience in ETL development, and feature engineering, bridging the gap between raw data and business value. My focus lies in data wrangling and developing end-to-end analytics solutions that are not only intelligent but also scalable and production ready.
 
----
-
-## 🛠️ Skills & Tools
-| **Category**              | **Tools**                                                                 |
-|---------------------------|--------------------------------------------------------------------------|  
-| **Data Visulization & Reporting**        | Power BI, Tableau, Microsoft Excel, Microsoft Fabric, Azure Data Services, Power Automate, Power Apps, AWS(Redshift, S3), Google Analytics, SAP, Sage X3, D365                    |  
-| **Data Management & Analysis**         | SQL, MySQL, MS SQL Server, DAX, M, Oracle, Python(Pandas, NumPy), Snowflake ML & Data Modeling, Data Warehousing, Data Visualization,  Data Integration, ETL, Data Mining, Data Cleaning, Data Validation                                                       |  
-| **Core Competencies**      | Data Analysis, Statistical Analysis, Data Manipulation, Problem-Solving, Communication, Critical Thinking, Process Optimization, Data-Driven Decision Making |  
-
----
-
 ## 🎓 **Education**  
 **Marwadi Univeristy**  
 Bachelor of Technology in Information Technology
