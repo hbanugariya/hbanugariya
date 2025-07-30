@@ -1,13 +1,15 @@
 # Hi there, I'm **Harsh Banugariya**👋 
 
 ## **About Me**  
-Excited to be on the cutting edge of data analysis! As a **Microsoft Certified Power BI Data Analyst and Fabric Analytics Engineer** with expertise in **SQL**, **Python** and **Tableau**, I specialize in transforming complex data into actionable insights that drive strategic decision-making across industries.  
+Excited to be at the cutting edge of data, technology, and AI! As a Microsoft Certified Power BI Data Analyst and Fabric Analytics Engineer, I specialize in transforming complex data into actionable insights that drive strategic decision-making across industries.
 
-I design interactive dashboards and perform advanced analytics, uncovering insights that fuel data-driven strategies. By refining data models, creating dynamic visuals, and automating reporting processes, I empower organizations to make informed, timely decisions.  
+With strong expertise in SQL, Python, Power BI, and Snowflake, I design interactive dashboards and perform advanced analytics to uncover trends, optimize operations, and accelerate data-driven strategies. I’m passionate about refining data models, engineering scalable data pipelines, building predictive analytics solutions, automating BI workflows, and crafting dynamic visuals that empower organizations with timely, strategic insights.
 
-I manage and manipulate data across various databases like MySQL, MS SQL Server, and Oracle, optimizing storage and accessibility. Leveraging cloud-based platforms like Azure, AWS, and Microsoft Fabric, I deliver scalable solutions for advanced analytics and efficient data management.  
+I work across diverse databases such as MySQL and SQL Server, and leverage cloud platforms like Azure, AWS, and Microsoft Fabric to deliver scalable, high-performance data solutions.
 
-With a strong foundation in business and data analysis, I excel in data profiling, preparation, and modeling, creating reports and dashboards tailored to drive business outcomes. Passionate about process automation, tracking KPIs and predictive analytics, I use advanced techniques to uncover patterns and enable data-backed decision-making.  
+Expanding beyond business intelligence, I bring a growing focus on Data Science and Data Engineering applying Python-based machine learning and AI techniques to build predictive models, automate workflows, and enhance decision-making. I have experience in ETL development, and feature engineering, bridging the gap between raw data and business value. My focus lies in data wrangling and developing end-to-end analytics solutions that are not only intelligent but also scalable and production ready.
+
+Holding a Bachelor of Technology in Information Technology, I combine technical acumen with clear communication and a business first mindset. I excel in data profiling, preparation, and modeling, consistently delivering advanced analytics and dashboards aligned with real business outcomes. I'm especially passionate about process automation, KPI tracking, and driving innovation through AI-powered insights and robust data infrastructure.  
 
 ---
 
